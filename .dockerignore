@@ -1,0 +1,6 @@
+.git
+.idea
+Dockerfile
+docker-compose*
+.env*
+helm/*
